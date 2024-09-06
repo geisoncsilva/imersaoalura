@@ -6,7 +6,7 @@ Um projetinho bem simples para te ajudar a descobrir mais sobre as cidades brasi
 
 **Como usar?**
 
-1. **Clone o repositório:** `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. **Clone o repositório:** `https://github.com/geisoncsilva/imersaoalura`
 2. **Abra o projeto:** Use seu editor de código favorito.
 3. **Rode o servidor:** Siga as instruções no arquivo `README.md` do framework que você estiver usando (se for Node.js, por exemplo, pode ser `npm start`).
 4. **Faça uma busca:** Acesse a página do seu aplicativo e digite o nome da cidade.
